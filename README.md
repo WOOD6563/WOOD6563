@@ -1,7 +1,6 @@
 - 👋 Hi, I’m TANISH SINGH 
 - 👀 I’m interested in Haking and coding 
 - 🌱 I’m currently learning LINUX 
-- 💞️ I’m looking to collaborate on SIDDHARTH 
 - 📫 How to reach me:- 
 - 😄 Pronouns: wood
 - ⚡ Fun fact: im not DEV
