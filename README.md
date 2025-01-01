@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TANISH SINGH 
-- 👀 I’m interested in Haking and coding 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning LINUX 
 - 📫 How to reach me:- 
 - 😄 Pronouns: wood
