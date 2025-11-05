@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi, I'm **Woodiet** — a tech & Linux enthusiast and Java learner building small projects. I explore advanced system setups throughout the phone using Termux.
+Hi, I'm **Wood** — a tech & Linux enthusiast and Java learner building small projects. I explore advanced system setups throughout the phone using Termux.
 
 ---
 
@@ -18,11 +18,6 @@ Hi, I'm **Woodiet** — a tech & Linux enthusiast and Java learner building smal
 - Automation, Scripts, Bash
 - Java programming language
 - Building projects
-
----
-
-### 🧠 My goal
-I want to become a developer, make Minecraft mods, etc.
 
 ---
 
