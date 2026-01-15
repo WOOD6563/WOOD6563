@@ -1,4 +1,4 @@
 ### About
-Java and Bash programmer from India.  
+Java and Bash.  
 Uses Termux as a Linux environment due to lack of a personal computer.![despair](https://cdn.discordapp.com/emojis/1449072106770796556.webp?size=48&quality=lossless&name=despair)
 # I USE NVIM BTW.![like](https://cdn.discordapp.com/emojis/1429743593723134015.webp?size=48&quality=lossless&name=like)
