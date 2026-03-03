@@ -1,4 +1,4 @@
-# Hi there, I'm MD Tanish! 👋
+# Hi there, I'm Tanish! 👋
   
 ### Languages
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
